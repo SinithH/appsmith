@@ -10,7 +10,7 @@ Read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing
 
 ## How can I contribute?
 
-There are many ways in which we/one can to contribute to Appsmith. All contributions are highly appreciated.
+There are many ways in which we/one can contribute to Appsmith. All contributions are highly appreciated.
 
 #### 🐛 Report a bug
 Report all issues through GitHub Issues using the [Report a Bug](https://github.com/appsmithorg/appsmith/issues/new?assignees=Nikhil-Nandagopal&labels=Bug%2C+High&template=---bug-report.md&title=%5BBug%5D) template.
@@ -21,7 +21,7 @@ We welcome all feature requests, whether it's to add new functionality to an exi
 File your feature request through GitHub Issues using the [Feature Request](https://github.com/appsmithorg/appsmith/issues/new?assignees=Nikhil-Nandagopal&labels=&template=----feature-request.md&title=%5BFeature%5D) template.
 
 #### 📝 Improve the documentation
-In the process of shipping features quickly, we often forget to keep our docs up to date. You can help by suggesting improvements to our documentation or dive right in to our [Contribution Guide](contributions/docs/CONTRIBUTING.md)!
+In the process of shipping features quickly, we often forget to keep our docs up to date. You can help by suggesting improvements to our documentation or dive right into our [Contribution Guide](contributions/docs/CONTRIBUTING.md)!
 
 #### ⚙️ Close a Bug / Feature issue
 We welcome contributions that help make appsmith bug free & improve the experience of our users. Check out our [Code Contribution Guide](contributions/CodeContributionsGuidelines.md) to begin.
